@@ -1,0 +1,79 @@
+.home {
+  /* color: red; */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.homeRouter {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.homeview {
+  flex: 1;
+  height: 4rem;
+  overflow: auto;
+}
+.search {
+  height: 1.35rem;
+  padding: 0 .45rem;
+  background-color: #d43d3d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.searchPut {
+  border: none;
+  width: 8.14rem;
+  height: .9rem;
+  padding: 0 .28rem;
+  border-radius: .1rem;
+}
+.pushThing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: .35rem;
+  color: #ffffff;
+}
+.pushThing span:first-child {
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: .75rem;
+}
+.navbar {
+  height: 1.08rem;
+  display: flex;
+  align-items: center;
+  font-size: .5rem;
+  background-color: #f4f5f6;
+  border-bottom: .01rem solid #e8e8e8;
+  overflow-x: auto;
+}
+.navbar a {
+  display: block;
+  color: #000000;
+  text-decoration: none;
+  min-width: 1.8rem;
+  text-align: center;
+}
+/* recommend ******************************/
+.recommend {
+  height: 100%;
+  font-size: .45rem;
+  padding: 0 .45rem;
+  overflow: auto;
+}
+.loading {
+  height: 1.2rem;
+  color: #cccccc;
+  font-size: .35rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lodingimg {
+  width: 1rem;
+  height: 1rem;
+}

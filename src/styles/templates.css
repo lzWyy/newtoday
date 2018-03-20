@@ -1,0 +1,57 @@
+.card {
+  padding: .45rem 0;
+  border-bottom: 0.01rem solid #e8e8e8;
+}
+.card a {
+  text-decoration: none;
+  color: #000000;
+}
+.cardP {
+  margin: 0;
+  padding: 0;
+  line-height: .6rem;
+}
+.cardImg {
+  width: 3.24rem;
+  height: 2.1rem;
+}
+.tags {
+  display: flex;
+  padding-top: .2rem;
+  font-size: .3rem;
+  color: #b3b3b3;
+  margin-left: -0.08rem;
+}
+.tags span {
+  margin-right: .2rem;
+}
+.tags .tagRed {
+  border: 0.02rem solid #f06060;
+  color: #f06060;
+  padding: 0 0.1rem;
+  border-radius: .1rem;
+  transform: scale(0.75);
+  -webkit-transform: scale(0.75);
+}
+.word {
+  display: flex;
+  justify-content: space-between;
+}
+.wordtext {
+  width: 5.95rem;
+}
+.finance {
+  display: flex;
+  flex-direction: column;
+}
+.finance_img {
+  margin-top: .2rem;
+  display: flex;
+  justify-content: space-around;
+}
+.video_box {
+  margin-top: .2rem;
+  width: 100%;
+  height: 5rem;
+  background-color: #000000;
+}

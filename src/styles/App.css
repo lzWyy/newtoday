@@ -1,0 +1,70 @@
+@media screen and (max-width: 414px) {
+  html {
+    font-size: 38.33333333333px
+  }
+}
+@media screen and (max-width: 412px) {
+  html {
+    font-size: 38.148148148px
+  }
+}
+@media screen and (max-width: 375px) {
+  html {
+    font-size: 34.7222222222px
+  }
+}
+@media screen and (max-width: 360px) {
+  html {
+    font-size: 33.3333333333px
+  }
+}
+@media screen and (max-width: 320px) {
+  html {
+    font-size: 29.6296296296px
+  }
+}
+.index {
+  width: 100vw;
+  height: 100vh;
+}
+.route {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.routerView {
+  flex: 1;
+  overflow: auto;
+}
+
+.tabBar {
+  height: 1.3rem;
+  background-color: #f4f5f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.tabItem {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tabItem a {
+  height: 100%;
+  color: #000000;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.tabBarImg {
+  width: .8rem;
+  height: .8rem;
+}
+.tabbarText {
+  font-size: .3rem;
+}
