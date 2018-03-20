@@ -14,4 +14,4 @@
 
 demo效果图如下： 有时间的话接着完善吧
 
-![Kapture 2018-03-20 at 15.45.36.gif](https://upload-images.jianshu.io/upload_images/8154823-062b302796ee4c47.gif?imageMogr2/auto-orient/strip)
+![Kapture 2018-03-20 at 16.18.20.gif](https://upload-images.jianshu.io/upload_images/8154823-27632ce259ca96c2.gif?imageMogr2/auto-orient/strip)
